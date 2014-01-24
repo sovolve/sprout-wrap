@@ -41,3 +41,16 @@ cookbook 'sprout-osx-rubymine',
 
 cookbook 'sprout-homebrew',
   :git => 'git://github.com/pivotal-sprout/sprout-homebrew.git'
+
+cookbook 'uwd-sprout-supplement',
+  :git => 'git://github.com/undergroundwebdesigns/uwd-sprout-supplement.git'
+
+cookbook 'neo4j-multi-server',
+  :git => 'git://github.com/sovolve/cookbook-neo4j-multi-server.git'
+ 
+cookbook "ssh", github: "markolson/chef-ssh"
+
+cookbook 'panomira_rails_api',
+  :git => 'git://github.com/sovolve/cookbook-rails-api.git',
+  :path => 'site-cookbooks/panomira_rails_api'
+
