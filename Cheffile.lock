@@ -186,7 +186,7 @@ GIT
   remote: git://github.com/sovolve/cookbook-rails-api.git
   path: site-cookbooks/panomira_rails_api
   ref: master
-  sha: 2472f558d306a4757ab6be43e63d78e98c63a160
+  sha: dea511304091dcdac5751b5104eb768e2d1f0054
   specs:
     panomira_rails_api (0.1.0)
       application (>= 0.0.0)
@@ -198,14 +198,9 @@ GIT
       ssh (>= 0.0.0)
 
 GIT
-  remote: https://github.com/markolson/chef-ssh
+  remote: git://github.com/undergroundwebdesigns/uwd-sprout-supplement.git
   ref: master
-  sha: 468990595e0040ca21b90ef0e67a35b009e1e743
-  specs:
-    ssh (0.6.5)
-
-PATH
-  remote: /Users/alexwillemsma/Work/UndergroundWebDesigns/uwd-sprout-supplement
+  sha: 9a89555a9f06efcd6f64da6012958b80ef3d094d
   specs:
     uwd-sprout-supplement (1.0.0)
       dmg (>= 0.0.0)
@@ -215,6 +210,13 @@ PATH
       sprout-osx-apps (>= 0.0.0)
       sprout-osx-base (>= 0.0.0)
       sprout-osx-settings (>= 0.0.0)
+
+GIT
+  remote: https://github.com/markolson/chef-ssh
+  ref: master
+  sha: 468990595e0040ca21b90ef0e67a35b009e1e743
+  specs:
+    ssh (0.6.5)
 
 PATH
   remote: site-cookbooks/meta
