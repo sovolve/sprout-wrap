@@ -28,20 +28,22 @@ Download from [Apple Downloads](http://developer.apple.com/downloads)
 ### 3. Install JDK 7
   
 [Oracle JDK 7](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
+
+### 4. Create / install your public key, and ensure it has access to the panomira-api-ror repository.
   
-### 3. Clone this project
+### 5. Clone this project
 
     git clone https://github.com/sovolve/sprout-wrap-rails.git
     cd sprout-wrap-rails
 
-### 4. Install soloist & and other required gems
+### 6. Install soloist & and other required gems
 
 If you're running under rvm or rbenv, you shouldn't preface the following commands with `sudo`.
 
     sudo gem install bundler
     sudo bundle
 
-### 5. Run soloist
+### 7. Run soloist
 
 [You may want to modify your Energy Saver preferences (**System Preferences &rarr; Energy Saver &rarr; Computer Sleep &rarr; 3hrs**) because soloist usually takes 2-3 hours to complete.]
 
