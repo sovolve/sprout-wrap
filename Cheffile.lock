@@ -186,7 +186,7 @@ GIT
   remote: git://github.com/sovolve/cookbook-rails-api.git
   path: site-cookbooks/panomira_rails_api
   ref: master
-  sha: 7d350da74a9f4f08acd78d93b14140108b3e1741
+  sha: bd4dd6ca156fc222b6a9fb24c029ad7d8bdb2405
   specs:
     panomira_rails_api (0.1.0)
       application (>= 0.0.0)
