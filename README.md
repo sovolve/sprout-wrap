@@ -32,7 +32,7 @@ Download from [Apple Downloads](http://developer.apple.com/downloads)
 ### 3. Clone this project
 
     git clone https://github.com/sovolve/sprout-wrap-rails.git
-    cd sprout-wrap
+    cd sprout-wrap-rails
 
 ### 4. Install soloist & and other required gems
 
