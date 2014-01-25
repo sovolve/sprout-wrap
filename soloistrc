@@ -14,6 +14,7 @@ recipes:
 - pivotal_workstation::git_config_global_defaults
 
 # development (rails)
+- sprout-osx-rbenv
 - pivotal_workstation::gem_setup
 - pivotal_workstation::memcached
 - pivotal_workstation::nginx
