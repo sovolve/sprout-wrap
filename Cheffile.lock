@@ -32,7 +32,7 @@ SITE
     homebrew (1.5.4)
     homesick (0.4.0)
       git (>= 0.0.0)
-    java (1.19.0)
+    java (1.19.2)
     logrotate (1.4.0)
     mysql (4.0.20)
       build-essential (~> 1.4)
@@ -186,7 +186,7 @@ GIT
   remote: git://github.com/sovolve/cookbook-rails-api.git
   path: site-cookbooks/panomira_rails_api
   ref: master
-  sha: dea511304091dcdac5751b5104eb768e2d1f0054
+  sha: 7d350da74a9f4f08acd78d93b14140108b3e1741
   specs:
     panomira_rails_api (0.1.0)
       application (>= 0.0.0)

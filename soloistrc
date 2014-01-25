@@ -27,7 +27,7 @@ recipes:
 
 node_attributes:
   rails_api:
-    path: /Users/alexwillemsma/workspace/panomira-api-ror
+    path: ~/workspace/panomira-api-ror
   mysql_root_password: root
   mysql:
    server_root_password: root 
