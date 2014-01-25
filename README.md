@@ -57,3 +57,4 @@ If you're running under rvm or rbenv, you shouldn't preface the following comman
     gem install bundler
     rbenv rehash
     bundle install
+    rails s # Starts the rails server.
