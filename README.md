@@ -23,7 +23,11 @@ Don't forget to start up Xcode once it's installed so that you can agree to the 
 
 ### 2. Install Command Line Tools
   
-    (Download from [Apple Downloads](http://developer.apple.com/downloads))
+Download from [Apple Downloads](http://developer.apple.com/downloads)
+
+### 3. Install JDK 7
+  
+[Oracle JDK 7](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
   
 ### 3. Clone this project
 
