@@ -49,3 +49,11 @@ If you're running under rvm or rbenv, you shouldn't preface the following comman
 
     bundle exec soloist
 
+### 8. Run the rails app
+
+    cd ~/workspace/panomira-api-ror
+    . ~/.bash_profile
+    rbenv rehash
+    gem install bundler
+    rbenv rehash
+    bundle install
