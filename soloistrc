@@ -10,6 +10,7 @@ recipes:
 - sprout-osx-settings::global_environment_variables
 
 # development (general)
+- sprout-osx-base::workspace_directory
 - pivotal_workstation::git_config_global_defaults
 
 # development (rails)
