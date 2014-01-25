@@ -200,7 +200,7 @@ GIT
 GIT
   remote: git://github.com/undergroundwebdesigns/uwd-sprout-supplement.git
   ref: master
-  sha: 9a89555a9f06efcd6f64da6012958b80ef3d094d
+  sha: f01253b55a509ed8c62f7ee34aaf716b5c355124
   specs:
     uwd-sprout-supplement (1.0.0)
       dmg (>= 0.0.0)
