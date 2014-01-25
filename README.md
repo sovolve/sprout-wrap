@@ -31,7 +31,7 @@ Download from [Apple Downloads](http://developer.apple.com/downloads)
   
 ### 3. Clone this project
 
-    git clone https://github.com/pivotal-sprout/sprout-wrap.git
+    git clone https://github.com/sovolve/sprout-wrap-rails.git
     cd sprout-wrap
 
 ### 4. Install soloist & and other required gems
